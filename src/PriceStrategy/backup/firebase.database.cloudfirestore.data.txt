@@ -1,0 +1,8 @@
+Symbols {
+	default: {
+		data: string //ect: "ethbtc"
+	},
+	production: {
+		: string //ect: "ethbtc"
+	}
+}
