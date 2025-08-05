@@ -1,6 +1,6 @@
 # NTradeBot
 
-This source implement some strategy for trading bot.
+This source implements a strategy for a trading bot. Market outstanding signal, which is a part of a microservice. Send price alert to Telegram bot
 
 ## Price Alert Trading Strategy 
 - Alert when Volume up
